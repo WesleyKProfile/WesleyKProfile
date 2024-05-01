@@ -1,17 +1,12 @@
 # Hello, I'm Wesley
 <a href="https://linkedin.com/in/wesleykoweek/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an enthusiastic new grad with a B.S. in Cybersecurity and Information Assurance, and am excited by the prospect of solving new challenges and learning everything I can about the field of IT/cybersecurity. 
+I am an enthusiastic new grad with a B.S. in Cybersecurity and Information Assurance, and am excited by the prospect of solving new challenges and learning everything I can about the field of IT/cybersecurity. My academic journey in cybersecurity has ignited a passion for all facets of the field, compelling me to bridge the gap between classroom knowledge and real-world application.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
+## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Project                                       | Skills                     |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -29,7 +24,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
