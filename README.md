@@ -7,7 +7,7 @@ I'm an enthusiastic new grad with a B.S. in Cybersecurity and Information Assura
 
 | Project                                       | Skills                     |
 |-----------------------------------------------|----------------------------|
-|  <a href="https://google.com">Automated Port Scan Logger</a>|Port Scanning and Automation using Python and Nmap|
+|  <a href="https://github.com/WesleyKProfile/Automated-Port-Scan-Logger/blob/main/README.md">Automated Port Scan Logger</a>|Port Scanning and Automation using Python and Nmap|
 
 ## Certifications
 
