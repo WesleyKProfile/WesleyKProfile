@@ -10,7 +10,7 @@ I'm an enthusiastic new grad with a B.S. in Cybersecurity and Information Assura
 |  <a href="https://github.com/WesleyKProfile/Automated-Port-Scan-Logger">Automated Port Scan Logger</a>|Port Scanning and Automation using Python and Nmap|
 |  <a href="https://github.com/WesleyKProfile/Small-Network-Lab">Small Network Lab</a>|Network Design and Implementation using VLANs and Subnetting|
 |  <a href="https://github.com/WesleyKProfile/Microsoft-Windows-Defender-and-Firewall-Lab">Microsoft Windows Defender and Firewall Lab</a>|Defensive Scanning and Firewall Configuration in a Windows Environment|
-|  <a href="https://github.com/WesleyKProfile/Wireshark-Lab">Wireshark Lab</a>|Packet Capture, Analysis, and Decryption employing Wireshark|
+|  <a href="https://github.com/WesleyKProfile/Wireshark-Lab">Wireshark Lab</a>|Packet Capture, Analysis, and Decryption using Wireshark|
 
 ## Certifications
 
