@@ -12,8 +12,6 @@ I'm an enthusiastic new grad with a B.S. in Cybersecurity and Information Assura
 |  <a href="https://github.com/WesleyKProfile/Microsoft-Windows-Defender-and-Firewall-Lab">Microsoft Windows Defender and Firewall Lab</a>|Defensive Scanning and Firewall Configuration in a Windows Environment|
 |  <a href="https://github.com/WesleyKProfile/Wireshark-Lab">Wireshark Lab</a>|Packet capture, analysis, and decryption employing Wireshark|
 
-https://github.com/WesleyKProfile/Wireshark-Lab
-
 ## Certifications
 
 - CompTIA CySA+
